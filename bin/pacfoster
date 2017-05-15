@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+#
+# pacfoster - Pacman cleaning utility
+#
+#
+# Florian Dejonckheere <florian@floriandejonckheere.be>
+#
+
+require 'pacfoster/version'
