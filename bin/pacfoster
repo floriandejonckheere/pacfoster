@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
+
 #
 # pacfoster - Pacman cleaning utility
 #
@@ -6,4 +8,4 @@
 # Florian Dejonckheere <florian@floriandejonckheere.be>
 #
 
-require 'pacfoster/version'
+require "pacfoster/version"
