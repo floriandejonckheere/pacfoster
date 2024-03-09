@@ -1,14 +1,22 @@
 # Pacfoster
 
-A cleaning script similar to 'debfoster', using the pacman package manager
+A cleaning script similar to 'debfoster', using the pacman package manager.
 
 ## Installation
 
-Install the application as:
+Add this line to your application's Gemfile:
 
+```ruby
+gem "pacfoster"
 ```
-$ gem install jwt-auth
-```
+
+And then execute:
+
+    $ bundle install
+
+Or install it yourself as:
+
+    $ gem install pacfoster
 
 ## Usage
 
@@ -18,8 +26,8 @@ $ pacfoster
 
 ## Contributing
 
-1. Fork it ( https://github.com/floriandejonckheere/pacfoster/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+Bug reports and pull requests are welcome on GitHub at [https://github.com/floriandejonckheere/pacfoster](https://github.com/floriandejonckheere/pacfoster).
+
+## License
+
+The software is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
