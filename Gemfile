@@ -7,6 +7,6 @@ gemspec
 
 group :development, :test do
   # Linter
-  gem "rubocop", "1.62.1", require: false
-  gem "rubocop-performance", "1.20.2", require: false
+  gem "rubocop", "1.63.0", require: false
+  gem "rubocop-performance", "1.21.0", require: false
 end
